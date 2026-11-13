@@ -19,7 +19,7 @@ title: Joseph Arvanitis # the main title
 tagline: "Student · Developer · Amateur researcher" # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Personal site of Joseph Arvanitis: a place for stuff I am working on or think is cool.
+  Personal site of Joseph (Iosif) Arvanitis: a place for stuff I am working on or think is cool.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -42,6 +42,8 @@ social:
     # - https://twitter.com/username # change to your Twitter homepage
     - https://github.com/josarv # change to your GitHub homepage
     - https://orcid.org/0009-0002-9548-7757 # ORCID
+    - https://scholar.google.com/citations?user=kykvvqEAAAAJ # Scholar
+    - https://dblp.org/pid/317/1641.html # DBLP
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
